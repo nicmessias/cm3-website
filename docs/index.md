@@ -1,5 +1,5 @@
 ---
-title: Home Page
+title: Cute Dogs 
 ---
 
 This is the home page of Rahul's CM3 website.
@@ -15,12 +15,16 @@ This is another para.
 In this one we show some lists. just start the lista on the next line after hitting one return:
 - an item
 - another item
+- Hi everyone 
 
 In this new para we create a numbered list using numbers.
 1. first item
 2. second item
+3. three item
+4. forth item
+5. fifth item
 
-This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more.
+This shorthand is called Markdown. It is a general text format used almost everywhere on the web. [Google](https://www.google.com) (see how I made this link) about it to learn more. And you can go to [ChatGPT](https://chat.openai.com/)
 
 You can write code by using triple-ticks:
 
